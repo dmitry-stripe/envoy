@@ -1,6 +1,11 @@
 Version history
 ---------------
 
+1000.1000.1000
+==============
+
+Hello
+
 1.10.0 (pending)
 ================
 * access log: added a new flag for upstream retry count exceeded.
